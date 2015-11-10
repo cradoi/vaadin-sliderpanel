@@ -144,7 +144,7 @@ public class SliderPanelSampleUI extends UI {
         component.setSpacing(true);
         return component;
     }
-
+/*
     @WebServlet(
         urlPatterns = "/*",
         name = "SliderPanelSampleUIServlet",
@@ -155,4 +155,5 @@ public class SliderPanelSampleUI extends UI {
         widgetset = "org.vaadin.slidersample.WidgetSet")
     public static class MyUIServlet extends VaadinServlet {
     }
+    */
 }
